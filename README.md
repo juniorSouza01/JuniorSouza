@@ -3,7 +3,7 @@
 
 ```javascript
 const Junior Souza = {
-    code: [Nodejs, Typescript],
+    code: [JavaScript, Nodejs, Typescript],
     technologies: {
         backEnd: {
             nodejs: ["express"],
