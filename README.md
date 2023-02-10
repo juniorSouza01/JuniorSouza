@@ -28,7 +28,7 @@ const Junior Souza = {
 
 
 <div align="center">
-  <a href="https://github.com/juniorSouza01">
+  <a href="https://https://github.com/Diegochak">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juniorSouza01&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorSouza01&show_icons=true&theme=cobalt&title_color=3a7eea&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact"/>
 </div> 
