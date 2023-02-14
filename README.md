@@ -44,7 +44,7 @@ const Junior Souza = {
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/juniorSouza01?tab=repositories)
 
-- 📫 Entre em contat via: **juniorthesouza017@gmail.com**
+- 📫 Entre em contato via: **juniorthesouza017@gmail.com**
 
 
 
