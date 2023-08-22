@@ -40,7 +40,7 @@ const Junior Souza = {
 
 - 🔭 Atualmente estou trabalhando na [Camerite](https://camerite.com/)
 
-- 🌱 No momento estou aprendendo **Python, React.js, Node.js and DevOps Culture**
+- 🌱 No momento estou aprendendo **C++, Python, React.js, Node.js and DevOps Culture**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/juniorSouza01?tab=repositories)
 
