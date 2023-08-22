@@ -3,14 +3,16 @@
 
 ```javascript
 const Junior Souza = {
-    code: [JavaScript, Nodejs, Typescript],
+    code: [Nodejs, Typescript, Python],
     technologies: {
         backEnd: {
-            nodejs: ["express"],
+            nodejs: ["express", "Sequelize"],
+            python: ["flask"],
             typescript: ["typeorm", "react-native"],
         },
         frontEnd: {
             react: ["react-native"],
+            react: ["electron"],
             html: ["bootstrap"],
         }        
     },
