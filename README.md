@@ -7,7 +7,7 @@ const Junior Souza = {
     technologies: {
         backEnd: {
             nodejs: ["express", "Sequelize"],
-            java: ["springboot"],["quarkus"], ["glassfish"], ["maven"],["microservices"]
+            java: ["springboot"],["quarkus"], ["glassfish"], ["maven"],["microservices"],
             typescript: ["typeorm", "react-native"],["react"]
         },
         frontEnd: { 
@@ -16,7 +16,7 @@ const Junior Souza = {
             react: ["electron"]
         }        
     },
-    databases: [MongoDB, MySQL, SQLite],["Postgress"]
+    databases: [MongoDB, MySQL, SQLite],["Postgress"],
     devops: [Docker],
     utils: {
         system: {
