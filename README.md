@@ -7,22 +7,20 @@ const Junior Souza = {
     technologies: {
         backEnd: {
             nodejs: ["express", "Sequelize"],
-            python: ["flask"],
-            typescript: ["typeorm", "react-native"],
+            java: ["springboot"],["quarkus"], ["glassfish"], ["maven"],["microservices"]
+            typescript: ["typeorm", "react-native"],["react"]
         },
-        frontEnd: {
+        frontEnd: { 
+            angular: ["angularJS"]
             react: ["react-native"],
-            react: ["electron"],
-            html: ["bootstrap"],
+            react: ["electron"]
         }        
     },
-    
-    databases: [MongoDB, MySQL, SQLite],
+    databases: [MongoDB, MySQL, SQLite],["Postgress"]
     devops: [Docker],
     utils: {
         system: {
-            linux: ["vscode", "postman", "insomnia", "beekeeper"],
-            windows: ["vscode", "docker"],       
+            linux: ["vscode", "postman", "insomnia", "beekeeper"],["eclipse"],["IntelliJ"]       
         },
         
 };
