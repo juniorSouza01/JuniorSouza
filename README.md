@@ -39,9 +39,9 @@ const Junior Souza = {
 
 
 
-- 🔭 Atualmente estou trabalhando na [Camerite](https://camerite.com/)
+- 🔭 Atualmente estou trabalhando na [Metal Group](https://www.metalgroup.com.br/)
 
-- 🌱 No momento estou aprendendo **Java and DevOps Culture**
+- 🌱 **BackEnd and DevOps Culture**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/juniorSouza01?tab=repositories)
 
