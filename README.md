@@ -8,6 +8,7 @@ const Junior Souza = {
         backEnd: {
             nodejs: ["express", "Sequelize"],
             java: ["springboot"],["quarkus"], ["glassfish"], ["maven"],["microservices"],
+            Python: ["Django"], ["Flask"], ["Selenium"], ["Pandas"],
             typescript: ["typeorm", "react-native"],["react"]
         },
         frontEnd: { 
