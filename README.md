@@ -38,9 +38,6 @@ const Junior Souza = {
 </div> 
 
 
-
-- 🔭 Atualmente estou trabalhando na [Metal Group](https://www.metalgroup.com.br/)
-
 - 🌱 **BackEnd and DevOps Culture**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/juniorSouza01?tab=repositories)
